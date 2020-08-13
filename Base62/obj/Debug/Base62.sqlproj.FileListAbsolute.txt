@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Base62\Base62\bin\Debug\Base62.dacpac
+C:\Users\user\source\repos\Base62\Base62\bin\Debug\Base62.dll
+C:\Users\user\source\repos\Base62\Base62\bin\Debug\Base62.pdb
+C:\Users\user\source\repos\Base62\Base62\obj\Debug\Base62.dll
+C:\Users\user\source\repos\Base62\Base62\obj\Debug\Base62.pdb
+C:\Users\user\source\repos\Base62\Base62\obj\Debug\Base62.sqlprojAssemblyReference.cache
